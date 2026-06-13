@@ -43,7 +43,8 @@ Los archivos de testing deberán ser ejecutados directamente.
 Florencia Castro
 
 ## Profesores
-Juan José Sáez
-Schuvab, Mathias
-Ingeniería de Software – Universidad de La Punta
+- Juan José Sáez
+- Schuvab, Mathias
+- 
+- Ingeniería de Software – Universidad de La Punta
 
